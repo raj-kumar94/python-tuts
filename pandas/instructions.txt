@@ -1,0 +1,30 @@
+------install anaconda---------
+
+to activate root envrironment:
+
+activate root
+--------------------------------
+
+update all packages:
+
+conda update --all
+
+---------------------------------
+
+install new packages:
+
+conda install markdown
+conda install numexpr
+conda install bottleneck
+conda install pandas-datareader
+
+or
+
+conda install markdown numexpr bottleneck pandas-datareader
+
+-----------------------------------
+
+launch jupyter notebook:
+	when root env is activated:
+		jupyter notebook
+
