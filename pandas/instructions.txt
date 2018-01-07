@@ -28,3 +28,9 @@ launch jupyter notebook:
 	when root env is activated:
 		jupyter notebook
 
+-----------------------------------
+
+anaconda installation path:
+
+C:\Users\<username>\Anaconda3
+
